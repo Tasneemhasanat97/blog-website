@@ -103,9 +103,9 @@ languageName = "English"
   [params.footer]
     enable = true
     #  Custom content (HTML format is supported)
-    custom = ''
+    custom = 'Tasneem Hasanat Inc'
     #  whether to show Hugo and theme info
-    hugo = true
+    hugo = false
     #  whether to show copyright info
     copyright = true
     #  whether to show the author
@@ -182,7 +182,7 @@ languageName = "English"
       # Gravatar Email for preferred avatar in home page
       gravatarEmail = ""
       # URL of avatar shown in home page
-      avatarURL = "/images/avatar.png"
+      avatarURL = "https://scontent-lga3-1.xx.fbcdn.net/v/t1.18169-9/11224740_1069845209716146_765890839418780475_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=174925&_nc_ohc=I65_t1RcgEoAX9N6d1m&tn=oiCScKs33FrcgOit&_nc_ht=scontent-lga3-1.xx&oh=00_AT92ut_qi8wWq8Cnklir-vLHjQSU_gpCHnY2WJECNaFGQQ&oe=62C1A6A7"
       #  title shown in home page (HTML format is supported)
       title = ""
       # subtitle shown in home page (HTML format is supported)
