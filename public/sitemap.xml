@@ -2,11 +2,11 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://taznat.dev/directory1/c/</loc></url><url>
-            <loc>http://taznat.dev/directory3/e/</loc></url><url>
-            <loc>http://taznat.dev/directory3/f/</loc></url><url>
-            <loc>http://taznat.dev/categories/</loc></url><url>
-            <loc>http://taznat.dev/directory1/</loc></url><url>
-            <loc>http://taznat.dev/directory3/</loc></url><url>
-            <loc>http://taznat.dev/tags/</loc></url><url>
-            <loc>http://taznat.dev/</loc></url></urlset>
+            <loc>http://example.org/directory1/c/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://example.org/directory3/e/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://example.org/directory3/f/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://example.org/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://example.org/directory1/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://example.org/directory3/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://example.org/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://example.org/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
