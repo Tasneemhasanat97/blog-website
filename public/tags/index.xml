@@ -1,0 +1,8 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tags - Tag - Taznat.dev</title>
+        <link>http://taznat.dev/tags/</link>
+        <description>Tags - Tag - Taznat.dev</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>tasneemhasanat97@icloud.com (Tasneem Hasanat)</managingEditor>
+            <webMaster>tasneemhasanat97@icloud.com (Tasneem Hasanat)</webMaster><atom:link href="http://taznat.dev/tags/" rel="self" type="application/rss+xml" /></channel>
+</rss>
