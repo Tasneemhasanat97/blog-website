@@ -204,75 +204,34 @@ languageName = "English"
 
   # Social config about the author
   [params.social]
-    GitHub = "xxxx"
-    Linkedin = ""
-    Twitter = "xxxx"
-    Instagram = "xxxx"
-    Facebook = "xxxx"
-    Telegram = "xxxx"
-    Medium = ""
-    Gitlab = ""
-    Youtubelegacy = ""
-    Youtubecustom = ""
-    Youtubechannel = ""
-    Tumblr = ""
-    Quora = ""
-    Keybase = ""
-    Pinterest = ""
-    Reddit = ""
-    Codepen = ""
-    FreeCodeCamp = ""
-    Bitbucket = ""
-    Stackoverflow = ""
-    Weibo = ""
-    Odnoklassniki = ""
-    VK = ""
-    Flickr = ""
-    Xing = ""
-    Snapchat = ""
-    Soundcloud = ""
-    Spotify = ""
-    Bandcamp = ""
-    Paypal = ""
-    Fivehundredpx = ""
-    Mix = ""
-    Goodreads = ""
-    Lastfm = ""
-    Foursquare = ""
-    Hackernews = ""
-    Kickstarter = ""
-    Patreon = ""
-    Steam = ""
-    Twitch = ""
-    Strava = ""
-    Skype = ""
-    Whatsapp = ""
-    Zhihu = ""
-    Douban = ""
-    Angellist = ""
-    Slidershare = ""
-    Jsfiddle = ""
-    Deviantart = ""
-    Behance = ""
-    Dribbble = ""
-    Wordpress = ""
-    Vine = ""
-    Googlescholar = ""
-    Researchgate = ""
-    Mastodon = ""
-    Thingiverse = ""
-    Devto = ""
-    Gitea = ""
-    XMPP = ""
-    Matrix = ""
-    Bilibili = ""
-    Discord = ""
-    DiscordInvite = ""
-    Lichess = ""
-    ORCID = ""
-    Pleroma = ""
-    Email = "xxxx@xxxx.com"
-    RSS = true # 
+
+  [params.social.github]
+  weight = 1
+  id = "Tasneemhasanat97"
+  prefix = "https://github.com/"
+  title = "Github"
+  icon = {class = "fab fa-github-alt fa-fw"}
+
+  [params.social.Linkedin]
+  weight = 2
+  id = "tasneemhasanat97"
+  prefix = "https://linkedin.com/in/"
+  title = "Linkedin"
+  icon = {class = "fab fa-linkedin fa-fw"}
+
+  [params.social.discord]
+  weight = 3
+  id = "BULLET_RAJA"
+  prefix = "discordapp.com/users/"
+  title = "Discord"
+  icon = {class = "fab fa-discord fa-fw"}
+
+  [params.social.Twitch]
+  weight = 4
+  id = "tasneemhasanat97"
+  prefix = "https://www.twitch.tv/"
+  title = "TwitchTv"
+  icon = {class = "fab fa-twitch fa-fw"}
 
   #  Page global config
   [params.page]
@@ -342,7 +301,7 @@ languageName = "English"
       enable = true
       Twitter = true
       Facebook = true
-      Linkedin = false
+      Linkedin = true
       Whatsapp = false
       Pinterest = false
       Tumblr = false
